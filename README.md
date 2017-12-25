@@ -1,4 +1,4 @@
-# C-Caesar-Cipher
+# C++ Caesar Cipher
 
 An Old Caesar cipher project I had.
 
